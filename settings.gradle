@@ -1,0 +1,2 @@
+rootProject.name='Activity-Contract-Example'
+include ':app'
