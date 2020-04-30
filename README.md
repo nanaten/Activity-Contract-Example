@@ -1,5 +1,7 @@
 # Activity-Contract-Example
 
+This is a sample `registerForActivityResult` that replaces `startActivityForResult`.
+
 From `androidx.fragment:fragment-ktx:1.3.0-alpha04`, the following method is `deprecated`: `androidx.fragment:fragment-ktx:1.3.0-alpha04`.
 - startActivityForResult
 - onActivityResult
